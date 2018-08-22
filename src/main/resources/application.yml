@@ -11,7 +11,7 @@ spring:
             write-dates-as-timestamps: true
     datasource:
         url: jdbc:mysql://127.0.0.1:3306/api?useUnicode=true&characterEncoding=UTF-8&useSSL=false
-        username: 
+        username: root
         password: 
     jpa:
         show-sql: true
